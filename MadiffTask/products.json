@@ -1,0 +1,50 @@
+[
+   {
+      "id":1,
+      "title":"Bag of Potatos",
+      "price":0.95,
+      "description":"Best potatos on the market!",
+      "category":"Vegetables",
+      "image":"https://media.istockphoto.com/id/610765164/pl/zdj%C4%99cie/nowy-kartofel.jpg?s=612x612&w=0&k=20&c=MJUTgGNmzV5-o7u2ofQNRa5C3PNjiBWzkn6YH8vYdSg=",
+      "rating":{
+         "rate":3.9,
+         "count":120
+      }
+   },
+   {
+      "id":2,
+      "title":"Dozen of Eggs",
+      "price":2.10,
+      "description":"Fresh and tasty",
+      "category":"Dairy",
+      "image":"https://media.istockphoto.com/id/451505631/pl/zdj%C4%99cie/dwa-jaja-na-bia%C5%82ym-tle.jpg?s=612x612&w=0&k=20&c=yB-jv0u5GsBpGlqJwGF7m8x22fXRUWIIO3I9za9gg04=",
+      "rating":{
+         "rate":4.1,
+         "count":259
+      }
+   },
+   {
+      "id":3,
+      "title":"Bottle of Milk",
+      "price":1.30,
+      "description":"Happy Cow = Tasty Milk",
+      "category":"Dairy",
+      "image":"https://media.istockphoto.com/id/153827081/pl/zdj%C4%99cie/butelk%C4%99-%C5%9Bwie%C5%BCego-mleka-odizolowany-na-bia%C5%82ym-tle.jpg?s=612x612&w=0&k=20&c=5VzrUwEgcWar5wSctMF-lnko-46ewexMGmctrzKgyvw=",
+      "rating":{
+         "rate":4.7,
+         "count":500
+      }
+   },
+   {
+      "id":4,
+      "title":"Bananas",
+      "price":0.73,
+      "description":"Taken straight from the tree",
+      "category":"Fruits",
+      "image":"https://media.istockphoto.com/id/1400057530/pl/zdj%C4%99cie/banany-puste.jpg?s=612x612&w=0&k=20&c=nOKxKfg0Ugkya43_2iiDcl9BFNLsmTvrO2P5o92kQlU=",
+      "rating":{
+         "rate":2.1,
+         "count":430
+      }
+   }
+]
