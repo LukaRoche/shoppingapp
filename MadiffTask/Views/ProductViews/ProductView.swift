@@ -56,6 +56,7 @@ struct ProductView: View {
                         }
                         Button(action: {
                             cart.addToCart(addedProduct: product, quantity: quantity)
+                            presentation.wrappedValue.dismiss()
                         }){
                             HStack {
                                 Text("Add to cart").bold()
