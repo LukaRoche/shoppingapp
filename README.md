@@ -1,6 +1,6 @@
 ## [SHOPPING APP]
 
-Swift 5 + SwiftUI <br /> 
+Swift 5 + SwiftUI with ObservableObjects <br /> 
 Application requires connection to internet for images, other things are stored locally(mostly mocked jsons) <br /> 
 For dependencies I used Swift Package Manager <br /> 
 
