@@ -4,6 +4,8 @@ Swift 5 + SwiftUI with ObservableObjects <br />
 Application requires connection to internet for images, other things are stored locally(mostly mocked jsons) <br /> 
 For dependencies I used Swift Package Manager <br /> 
 
+At first I wanted to write this with RxSwift, but I realized later that it is a bit tough to connect SwiftUI with RxSwift(in opposition to
+Autolayout), so I used native, reactive solution for SwiftUI
 
 ![Simulator Screenshot - iPhone 13 - 2024-04-02 at 15 48 55](https://github.com/LukaRoche/shoppingapp/assets/163368776/d632deec-680a-4428-9b56-e781cf8482fe) <br />
 ![Simulator Screenshot - iPhone 13 - 2024-04-02 at 15 49 02](https://github.com/LukaRoche/shoppingapp/assets/163368776/6ef80e58-2d46-4282-a971-8aae4d52d22d) <br />
